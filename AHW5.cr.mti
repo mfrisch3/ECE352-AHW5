@@ -1,0 +1,297 @@
+{C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/AHW3.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/AHW3.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module AHW3
+
+Top level modules:
+	AHW3
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/rise_edge_detect_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/rise_edge_detect_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module rise_edge_detect_tb
+
+Top level modules:
+	rise_edge_detect_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clockSM.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clockSM.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module clockSM
+
+Top level modules:
+	clockSM
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10Comb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10Comb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div10Comb
+
+Top level modules:
+	div10Comb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clkdiv.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clkdiv.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module clkdiv
+
+Top level modules:
+	clkdiv
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/FA.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/FA.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div3Comb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div3Comb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div3Comb
+
+Top level modules:
+	div3Comb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/bcd7seg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/bcd7seg.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module bcd7seg
+
+Top level modules:
+	bcd7seg
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezoSM.sv} {0 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezoSM.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module piezoSM
+** Error: (vlog-13069) C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezoSM.sv(43): near "<<": syntax error, unexpected << or <<<.
+
+
+} {4.0 5.0} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clkdiv4096.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clkdiv4096.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module clkdiv4096
+
+Top level modules:
+	clkdiv4096
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div10_tb
+
+Top level modules:
+	div10_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div6.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div6.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div6
+
+Top level modules:
+	div6
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_en_ff.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_en_ff.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module d_en_ff
+
+Top level modules:
+	d_en_ff
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10Comb_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10Comb_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div10Comb_tb
+
+Top level modules:
+	div10Comb_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_dur_cnt_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_dur_cnt_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module piezo_dur_cnt_tb
+
+Top level modules:
+	piezo_dur_cnt_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clkdiv_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clkdiv_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module clkdiv_tb
+
+Top level modules:
+	clkdiv_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/state5_reg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/state5_reg.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module state5_reg
+
+Top level modules:
+	state5_reg
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div3_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div3_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div3_tb
+
+Top level modules:
+	div3_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/time_reg.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/time_reg.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module time_reg
+
+Top level modules:
+	time_reg
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segAdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segAdec.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segAdec
+
+Top level modules:
+	segAdec
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div10
+
+Top level modules:
+	div10
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div3Comb_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div3Comb_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div3Comb_tb
+
+Top level modules:
+	div3Comb_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/AHW4.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/AHW4.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module AHW4
+
+Top level modules:
+	AHW4
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezoSM_tb.sv} {2 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezoSM_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module piezoSM_tb
+** Warning: C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezoSM_tb.sv(97): (vlog-2576) [BSOB] - Bit-select into 'note_dur' is out of bounds.
+
+
+Top level modules:
+	piezoSM_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segBdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segBdec.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segBdec
+
+Top level modules:
+	segBdec
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/edge_detect.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/edge_detect.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module edge_detect
+
+Top level modules:
+	edge_detect
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module piezo_freq_cnt_tb
+-- Compiling module piezo_monitor
+
+Top level modules:
+	piezo_freq_cnt_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segCdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segCdec.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segCdec
+
+Top level modules:
+	segCdec
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div6_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div6_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div6_tb
+
+Top level modules:
+	div6_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div3.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div3.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div3
+
+Top level modules:
+	div3
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_en_ff_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_en_ff_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module d_en_ff_tb
+
+Top level modules:
+	d_en_ff_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clkdivComb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clkdivComb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module clkdivComb
+
+Top level modules:
+	clkdivComb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segDdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segDdec.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segDdec
+
+Top level modules:
+	segDdec
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div6Comb_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div6Comb_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div6Comb_tb
+
+Top level modules:
+	div6Comb_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_ff.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_ff.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt.sv} {1 {vlog -work work -sv -stats=none {C:\Users\mattf\OneDrive\Documents\ECE 352\AHW5\piezo_freq_cnt.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module piezo_freq_cnt
+
+Top level modules:
+	piezo_freq_cnt
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/state5_reg_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/state5_reg_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module state5_reg_tb
+
+Top level modules:
+	state5_reg_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segEdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segEdec.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segEdec
+
+Top level modules:
+	segEdec
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segFdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segFdec.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segFdec
+
+Top level modules:
+	segFdec
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clockSM_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/clockSM_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module clockSM_tb
+
+Top level modules:
+	clockSM_tb
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segGdec.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segGdec.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module segGdec
+
+Top level modules:
+	segGdec
+
+} {} {}} {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div6Comb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div6Comb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module div6Comb
+
+Top level modules:
+	div6Comb
+
+} {} {}}

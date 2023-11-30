@@ -43,8 +43,10 @@ module piezoSM(
          <<defaults>>
 		
 		case (state)
-		  IDLE : begin
-            << your magic here >>
+		  IDLE : if(start) begin
+            next_state = NOTE1;
+			note_dur = 8'h40;
+			
 		  end
 		  NOTE1 : begin
 		    << your magic here >>

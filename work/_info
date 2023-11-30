@@ -10,7 +10,7 @@ cModel Technology
 dC:/Users/mattf/OneDrive/Documents/ECE 352/AHW4
 vAHW3
 Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
-Z1 !s110 1700942187
+Z1 !s110 1701318129
 !i10b 1
 !s100 I2YhiDXomom;9@;CFWVm73
 IJ[c?zeXWPDP=hIKYS=;0`2
@@ -26,7 +26,7 @@ Z5 OV;L;10.4d;61
 r1
 !s85 0
 31
-Z6 !s108 1700942187.000000
+Z6 !s108 1701318129.000000
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/AHW3.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/AHW3.sv|
 !i113 1
@@ -198,7 +198,7 @@ R7
 nclock@s@m
 vclockSM_tb
 R0
-R1
+Z10 !s110 1701318130
 !i10b 1
 !s100 D^7S5=kW>aWfQicUb4Tkg1
 I^hZUXM`@P2FB_`6DdmDBT2
@@ -222,7 +222,7 @@ R7
 nclock@s@m_tb
 vd_en_ff
 R0
-R1
+R10
 !i10b 1
 !s100 :U:_Uh26LZAXG4`B1eihT1
 IO`37>Z4B<dK1[CPMgNID?1
@@ -238,14 +238,14 @@ R5
 r1
 !s85 0
 31
-R6
+Z11 !s108 1701318130.000000
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_en_ff.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_en_ff.sv|
 !i113 1
 R7
 vd_en_ff_tb
 R0
-R1
+R10
 !i10b 1
 !s100 ]kPDflF58GdM>`DSO2aR63
 IGIYTmXjG7MM=[iPz5L9k[3
@@ -261,14 +261,14 @@ R5
 r1
 !s85 0
 31
-R6
+R11
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_en_ff_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_en_ff_tb.sv|
 !i113 1
 R7
 vd_ff
 R0
-Z10 !s110 1700942188
+R10
 !i10b 1
 !s100 16ELjEJ9N@T83z22PmPBH1
 IE:cXdJ>dWkL54cRIz?Eif1
@@ -284,7 +284,7 @@ R5
 r1
 !s85 0
 31
-Z11 !s108 1700942188.000000
+R11
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_ff.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/d_ff.sv|
 !i113 1
@@ -314,7 +314,7 @@ R11
 R7
 vdiv10_tb
 R0
-R10
+Z12 !s110 1701318131
 !i10b 1
 !s100 =936VoW=B39mVINdE`WMl3
 IK9KBdNFULaGCSL?^fVN<41
@@ -337,7 +337,7 @@ R11
 R7
 vdiv10Comb
 R0
-R10
+R12
 !i10b 1
 !s100 7cMgH^Q5a`V=m=O3M8jzR3
 IJ_FT[XMC=g]m@_CZm5eJH0
@@ -353,7 +353,7 @@ R5
 r1
 !s85 0
 31
-R11
+Z13 !s108 1701318131.000000
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10Comb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10Comb.sv|
 !i113 1
@@ -361,7 +361,7 @@ R7
 ndiv10@comb
 vdiv10Comb_tb
 R0
-Z12 !s110 1700942189
+R12
 !i10b 1
 !s100 EL39f0PFhjoERM1d@NZ4g0
 I_@lHAm6hFN<?j^e5j0lzU0
@@ -369,7 +369,7 @@ R2
 !s105 div10Comb_tb_sv_unit
 S1
 R3
-Z13 w1696371354
+Z14 w1696371354
 8C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10Comb_tb.sv
 FC:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10Comb_tb.sv
 L0 1
@@ -377,7 +377,7 @@ R5
 r1
 !s85 0
 31
-R11
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10Comb_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div10Comb_tb.sv|
 !i113 1
@@ -463,7 +463,7 @@ R2
 !s105 div3Comb_tb_sv_unit
 S1
 R3
-R13
+R14
 8C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div3Comb_tb.sv
 FC:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div3Comb_tb.sv
 L0 1
@@ -557,7 +557,7 @@ R2
 !s105 div6Comb_tb_sv_unit
 S1
 R3
-R13
+R14
 8C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div6Comb_tb.sv
 FC:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/div6Comb_tb.sv
 L0 1
@@ -589,7 +589,7 @@ R5
 r1
 !s85 0
 31
-Z14 !s108 1700942189.000000
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/edge_detect.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/edge_detect.sv|
 !i113 1
@@ -612,7 +612,7 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/FA.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/FA.sv|
 !i113 1
@@ -620,15 +620,15 @@ R7
 n@f@a
 vpiezo_dur_cnt
 R0
-Z15 !s110 1700942186
+!s110 1701318128
 !i10b 1
-!s100 ]16_a?jcXQJhYh<G5PWDC3
-I@bVZILn@n?32]ghOfi]jM3
+!s100 m9Yh3P>I`:@Vi_BLE:?3f2
+ISli@o>cBKa60Cn8XgngVQ3
 R2
 !s105 piezo_dur_cnt_sv_unit
 S1
 R3
-Z16 w1700941939
+w1701317999
 8C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_dur_cnt.sv
 FC:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_dur_cnt.sv
 L0 8
@@ -636,14 +636,14 @@ R5
 r1
 !s85 0
 31
-Z17 !s108 1700942186.000000
+Z15 !s108 1701318128.000000
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_dur_cnt.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_dur_cnt.sv|
 !i113 1
 R7
 vpiezo_dur_cnt_tb
 R0
-R15
+R1
 !i10b 1
 !s100 zYm5cVT169>@5=Ufg6^6<1
 I`aR6R8YEeMhfU17JC2doC3
@@ -651,7 +651,7 @@ R2
 !s105 piezo_dur_cnt_tb_sv_unit
 S1
 R3
-R16
+Z16 w1700941939
 8C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_dur_cnt_tb.sv
 FC:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_dur_cnt_tb.sv
 L0 1
@@ -659,78 +659,78 @@ R5
 r1
 !s85 0
 31
-R17
+R15
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_dur_cnt_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_dur_cnt_tb.sv|
 !i113 1
 R7
 vpiezo_freq_cnt
 R0
-R15
+R1
 !i10b 1
-!s100 o:P79me:b3d23JkI1[OW;2
-I5QAiJea]YkhiYD=nJf;D00
+!s100 N6XVXgLIS@m`<K_IXg5882
+I6h3Rc9Z`M2ELcaaN[Dklb1
 R2
 !s105 piezo_freq_cnt_sv_unit
 S1
 R3
-R16
-8C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt.sv
-FC:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt.sv
+w1701317559
+8C:\Users\mattf\OneDrive\Documents\ECE 352\AHW5\piezo_freq_cnt.sv
+FC:\Users\mattf\OneDrive\Documents\ECE 352\AHW5\piezo_freq_cnt.sv
 L0 8
 R5
 r1
 !s85 0
 31
-R17
-!s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt.sv|
-!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt.sv|
+R6
+!s107 C:\Users\mattf\OneDrive\Documents\ECE 352\AHW5\piezo_freq_cnt.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\mattf\OneDrive\Documents\ECE 352\AHW5\piezo_freq_cnt.sv|
 !i113 1
 R7
 vpiezo_freq_cnt_tb
 R0
-R15
+R1
 !i10b 1
 !s100 8oOW>d;zbd`nnHiJKHNcY2
 I[d:l[0V9D68GHC@66?6102
 R2
-Z18 !s105 piezo_freq_cnt_tb_sv_unit
+Z17 !s105 piezo_freq_cnt_tb_sv_unit
 S1
 R3
 R16
-Z19 8C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt_tb.sv
-Z20 FC:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt_tb.sv
+Z18 8C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt_tb.sv
+Z19 FC:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt_tb.sv
 L0 1
 R5
 r1
 !s85 0
 31
-R17
-Z21 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt_tb.sv|
-Z22 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt_tb.sv|
+R6
+Z20 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt_tb.sv|
+Z21 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/piezo_freq_cnt_tb.sv|
 !i113 1
 R7
 vpiezo_monitor
 R0
-R15
+R1
 !i10b 1
 !s100 fgd0PHedg;<R5nQN9UaAO1
 ILeTnzU9W?ak4R]4@BhVi40
 R2
-R18
+R17
 S1
 R3
 R16
+R18
 R19
-R20
 L0 68
 R5
 r1
 !s85 0
 31
-R17
+R6
+R20
 R21
-R22
 !i113 1
 R7
 vpiezoSM_tb
@@ -775,7 +775,7 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/rise_edge_detect_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/rise_edge_detect_tb.sv|
 !i113 1
@@ -798,7 +798,7 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segAdec.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segAdec.sv|
 !i113 1
@@ -822,7 +822,7 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segBdec.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segBdec.sv|
 !i113 1
@@ -846,7 +846,7 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segCdec.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segCdec.sv|
 !i113 1
@@ -870,7 +870,7 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segDdec.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segDdec.sv|
 !i113 1
@@ -894,7 +894,7 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segEdec.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segEdec.sv|
 !i113 1
@@ -918,7 +918,7 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segFdec.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segFdec.sv|
 !i113 1
@@ -942,7 +942,7 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segGdec.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/segGdec.sv|
 !i113 1
@@ -966,14 +966,14 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/state5_reg.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/state5_reg.sv|
 !i113 1
 R7
 vstate5_reg_tb
 R0
-R12
+Z22 !s110 1701318132
 !i10b 1
 !s100 XjPW3F<S5DATD[B<SE4Na2
 IZNDYHC8m4hkPLE2b`iQOJ0
@@ -989,14 +989,14 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/state5_reg_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/state5_reg_tb.sv|
 !i113 1
 R7
 vtime_reg
 R0
-!s110 1700942190
+R22
 !i10b 1
 !s100 U6XGQb_U5lJf78Zl`nfO91
 IiNnUhS^Ojk6e`bnYzi]Ae3
@@ -1012,7 +1012,7 @@ R5
 r1
 !s85 0
 31
-R14
+!s108 1701318132.000000
 !s107 C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/time_reg.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mattf/OneDrive/Documents/ECE 352/AHW5/time_reg.sv|
 !i113 1
